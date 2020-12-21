@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  3 12:11:51 2020
-
-@author: msabry
-"""
-
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras import backend as K
